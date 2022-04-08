@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Valentin Sobrado Carnevali</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 💬 Ask me about **JavaScript, HTML, Css,php...**
+- 🌱 I’m currently study on **UNICEN,TUDAI(University Technician in development of computer applications)**
+
+- 👨‍💻 All of my projects are available at [https://github.com/valensobrado/Portfolio/](https://github.com/valensobrado/Portfolio/)
+
+- 💬 Ask me about **JavaScript, HTML, Css, Php, Api REST,Java...**
 
 - 📫 How to reach me **valensobrado2@hotmail.com**
 
