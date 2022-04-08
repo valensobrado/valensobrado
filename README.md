@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Valentin Sobrado Carnevali</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🌱 I’m currently study on **UNICEN,TUDAI(University Technician in development of computer applications)**
+- 🌱 I’m currently study on **UNICEN, TUDAI (University Technician in development of computer applications)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/valensobrado/Portfolio/](https://github.com/valensobrado/Portfolio/)
 
